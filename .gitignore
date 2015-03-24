@@ -1,0 +1,9 @@
+.idea
+.directory
+*.swp
+*bak*
+_*
+data
+assets
+vendor
+composer.lock
